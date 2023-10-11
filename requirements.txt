@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+flask
+
+#-e . #link setup.py and will run it
