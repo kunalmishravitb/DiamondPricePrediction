@@ -2,5 +2,6 @@ pandas
 numpy
 seaborn
 flask
+scikit-learn
 
-#-e . #link setup.py and will run it
+#-e .
